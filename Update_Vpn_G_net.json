@@ -1,0 +1,69 @@
+{
+  
+"version": 90,
+"message": "เวอร์ชันไฟล์: 90\n#แก้ไขแอพไห้ใช้งานดียิ่งขึ้นกว่าเดิม \💯 โปรรองรับกับแอป♻️
+📲เพิ่มโปรทรู twitter
+📲my nopro 10 mbps++
+📲 True viber.4 Mbps
+📲 True VDO zoom 10เมก เล่นเกมสได้
+📲True id+เรียนฟรี 50-100 Mbps
+📲 True rov 50-100 Mbps
+📲 DTAC ตามใสสายเกมส์ 50-100 Mbps
+📲 DTAC TRUE ID 25 Mbps 
+📲 AISPLAY +64K. 50-200 Mbps ",
+"fileUrl": "https://www.tikinternet.com/file/servertikvpnpremium.json",
+
+"RewardAmount": 24,
+
+"messageWarning":"มีอะไรใหม่ ?\n• อัปเดต UI \n• เพิ่มฟังก์ชัน Hotshare \n• แก้ไขข้อบกพร่องและอื่นๆ อีกมากมาย\n \nขอบคุณที่เข้าใจครับผม",
+"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องอัปเกรด ",
+"link":"https://play.google.com/store/apps/details?id=tikpremium.pro.net",
+"website":"https://play.google.com/store/apps/details?id=tikpremium.pro.net",
+"versionCode": 3,
+
+"files": [
+
+{
+
+         "name": "TH-FREE-01",
+
+         "url": "http://117.18.127.149:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-02",
+
+         "url": "http://117.18.127.156:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-03",
+
+         "url": "http://117.18.127.149:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-04",
+
+         "url": "http://117.18.127.149:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-05",
+
+         "url": "http://117.18.127.147:82/server/online_app.json"
+
+      }
+
+
+   ]
+  
+}
